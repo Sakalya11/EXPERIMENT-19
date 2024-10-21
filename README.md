@@ -20,9 +20,6 @@ CODE :
 ```
 // Queue
 
-// Name --> Aditya Agarwal
-// PRN --> 23070123162
-
 #include <iostream>
 using namespace std;
 
